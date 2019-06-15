@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  display: block;
+  position: relative;
+}
+
+div > p {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.is-active {
+  font-weight: bold;
+}
+
+#logo {
+  max-width: 50px;
+}
