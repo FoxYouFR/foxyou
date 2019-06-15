@@ -6089,6 +6089,11 @@ react-dom@^16.8.6:
     prop-types "^15.6.2"
     scheduler "^0.13.6"
 
+react-flag-kit@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/react-flag-kit/-/react-flag-kit-0.3.1.tgz#31f93c26d50c8915d27c46f76a34e37aa8a7b164"
+  integrity sha512-mxbw6tF0JVHqsIP4s70LaqhLtAF3utljg2h9/cVLewoYhJNx52byQAerXO1jnnOIMOh717u31Y4c1lEyfpB3BQ==
+
 react-icons@^3.7.0:
   version "3.7.0"
   resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-3.7.0.tgz#64fe46231fabfeea27895edeae6c3b78114b8c8f"

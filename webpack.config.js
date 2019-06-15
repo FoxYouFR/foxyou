@@ -40,6 +40,9 @@ module.exports = env => {
             loader: 'file-loader'
           }
         ]
+      }, {
+        test: /\.svg$/,
+        loader: 'file-loader'
       }]
     },
     plugins: [
