@@ -1,3 +1,3 @@
-# Bookling
+# www.foxyou.ch
 
-A webapp to see and manage which books you've lent to your friends
+This is just my personal website, nothing to see here :)
