@@ -3,11 +3,7 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import AppRouter from './routers/AppRouter';
 import configureStore from './store/configureStore';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import $ from 'jquery';
-import Popper from 'popper.js';
-import 'bootstrap/dist/js/bootstrap.bundle.min';
-import 'react-dates/lib/css/_datepicker.css';
+import './styles/bootstrap.min.css';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
