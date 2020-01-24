@@ -1,5 +1,7 @@
 @import './base/settings';
 @import './base/base';
+@import './base/global';
+
 @import './components/HomePage';
-@import './components/ArticlePage.scss';
-@import './components/ContactPage.scss';
+@import './components/ArticlesPage';
+@import './components/ContactPage';
